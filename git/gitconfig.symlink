@@ -4,9 +4,9 @@
 [hub]
         protocol = https
 [user]
-        name = Wade Urry
-        email = wade@iwader.co.uk 
-	signingkey = 8A8FCFB2
+        name = Mike Rodham
+        email = switchytm@gmail.com
+	signingkey = F0394B92
 [credential]
         helper = osxkeychain
 [alias]

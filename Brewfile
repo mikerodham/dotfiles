@@ -14,6 +14,7 @@ brew 'gpg-agent'
 brew 'pinentry-mac'
 brew 'yarn'
 brew 'mas'
+brew 'irssi'
 
 cask '1password'
 cask 'atom'
@@ -30,7 +31,3 @@ cask 'docker'
 cask 'quitter'
 cask 'imageoptim'
 cask 'docker-toolbox'
-
-mas 'Clocks', id: 414554506
-mas 'Boxy', id: 1053031090
-mas 'Xcode', id: 497799835

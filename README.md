@@ -3,7 +3,7 @@
 ## Install
 
 ```
-git clone --recursive git@github.com:iWader/dotfiles.git ~/.dotfiles
+git clone --recursive git@github.com:mikerodham/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 script/bootstrap
 ```
@@ -36,7 +36,7 @@ There's a few special files in the hierarchy.
 
 ## Credits
 
-Forked from [holman/dotfiles][fork]
+Forked from [iWader/dotfiles][fork]:  http://iwader.co.uk
 Cobalt2 theme from [wesbos/Cobalt2-iterm][theme]
 Completion from [zsh-users/zsh-completions][zsh-completions]
 
@@ -46,5 +46,5 @@ MIT. See [LICENSE][license] file for more info.
 
 [fork]: https://github.com/holman/dotfiles
 [theme]: https://github.com/wesbos/Cobalt2-iterm
-[zsh-completions]: https://github.com/zsh-users/zsh-completions 
+[zsh-completions]: https://github.com/zsh-users/zsh-completions
 [license]: LICENSE.md
