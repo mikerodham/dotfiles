@@ -15,6 +15,7 @@ brew 'pinentry-mac'
 brew 'yarn'
 brew 'mas'
 brew 'irssi'
+brew 'go'
 
 cask '1password'
 cask 'atom'
