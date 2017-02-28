@@ -10,6 +10,10 @@ script/bootstrap
 
 Periodically run `dot`, this will keep your environment updated. You can find the file at `bin/dot`.
 
+Also do not forget to install `oh-my-zsh` if you haven't already, this is based on assumption you have it installed. If not the program does install zsh, but you'll need to run `zsh` in your terminal to see changes.
+
+If not, run `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"` and restartyour terminal.
+
 ## iTerm2 Settings
 
 1. Preferences > Profiles
