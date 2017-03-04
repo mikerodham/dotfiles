@@ -16,6 +16,7 @@ brew 'mas'
 brew 'irssi'
 brew 'go'
 brew 'zsh'
+brew 'git-lfs'
 
 cask '1password'
 cask 'atom'
