@@ -14,3 +14,4 @@ alias gb='git branch --all -vv'
 alias gs='git status -sb' # upgrade your git if -sb breaks for you. it's fun.
 alias ga='git add --all'
 alias gd='git diff --staged'
+alias gl="git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"

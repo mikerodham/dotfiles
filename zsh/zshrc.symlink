@@ -46,3 +46,5 @@ export GOROOT=/usr/local/opt/go/libexec
 export GOBIN=$GOPATH/bin
 export PATH=$PATH:$GOPATH
 export PATH=$PATH:$GOROOT/bin
+
+export PATH="$HOME/.yarn/bin:$PATH"
