@@ -13,4 +13,8 @@ apm install editorconfig \
             php-integrator-linter \
             php-integrator-navigation \
             php-integrator-refactoring \
-            php-integrator-tooltips
+            php-integrator-tooltips \
+            go-plus \
+            go-debug \
+            go-signature-statusbar \
+            linter
